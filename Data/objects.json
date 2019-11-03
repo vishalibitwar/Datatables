@@ -1,0 +1,63 @@
+{
+     "faculty": [
+
+          {
+               "id": 1,
+               "name": "Dr. Mrs. J. V. Megha",
+               "Designation": "Associate Professor",
+               "Qualification": "Ph.D.",
+               "Specialization": " Digital Image Processing",
+               "email": "meghavjon@gmail.com"
+          },
+          {
+               "id": 2,
+               "name": " Dr. Mr. M. V. Vaidya",
+               "Designation": "Assistant Professor",
+               "Qualification": "Ph.D.",
+               "Specialization": "Pattern Recognition",
+               "email": "mvvaidya@gmail.com"
+          },
+          {
+               "id": 3,
+               "name": "Dr. Mrs.A. K. Manjramkar",
+               "Designation": "Assistant Professor(Head of Department )",
+               "Qualification": "Ph.D.",
+               "Specialization": "Image Processing",
+               "email": "arati_km@yahoo.com"
+          },
+          {
+               "id": 4,
+               "name": " Prof. B. S. Shetty",
+               "Designation": "Assistant Professor",
+               "Qualification": "ME , Ph.D. (Appearing )",
+               "Specialization": "Data Mining and Neural Network",
+               "email": "balajishetty@gmail.com"
+          },
+          {
+               "id": 5,
+               "name": " Prof. G.K. Pakle",
+               "Designation": "Assistant Professor",
+               "Qualification": "Ph.D. (Appearing, SRTMU, Nanded)",
+               "Specialization": "High Speed Networks",
+               "email": "g.pakle@gmail.com"
+          },
+          {
+               "id": 6,
+               "name": "Prof. C. P. Navdeti",
+               "Designation": "Assistant Professor",
+               "Qualification": "Ph. D.",
+               "Specialization": "Wireless Sensor Networks",
+               "email": "navdetichandrakant@gmail.com"
+          },
+          {
+               "id": 7,
+               "name": "Prof. R. S. Potpelwar",
+               "Designation": "Assistant Professor",
+               "Qualification": "ME (CSE)",
+               "Specialization": "Data Mining",
+               "email": "rspotpelwar@gmail.com"
+          }
+
+     ]
+
+}
